@@ -46,8 +46,8 @@ jobs:
           echo "requires_update=true" >> "$GITHUB_OUTPUT"
           echo "latest_version=$latest_release_name" >> "$GITHUB_OUTPUT"
 
-          # WHAT IF WE HAVE MULTIPLE ASSETS ??
-          latest_version_download_url=$(echo "$latest_release_data" | grep "browser_download_url.*apk" | cut -d : -f 2,3 | tr -d \" )
+          # TODO: ADD OTHER VERSIONS LATER
+          latest_version_download_url=$(echo "$latest_release_data" | grep "browser_download_url.*extended.*apk" | cut -d : -f 2,3 | tr -d \" )
           echo "Latest version download url is '$latest_version_download_url'"
           echo "latest_version_download_url=$latest_version_download_url" >> "$GITHUB_OUTPUT"
 
