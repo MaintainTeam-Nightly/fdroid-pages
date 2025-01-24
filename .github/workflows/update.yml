@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: '35 0 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
       force_update:
@@ -26,7 +26,7 @@ jobs:
       latest_version_download_url: ${{ steps.check.outputs.latest_version_download_url }}
     steps:
       - uses: actions/checkout@v4
-      
+
       - id: check
         run: |
           latest_release_data=$(curl -L https://api.github.com/repos/MaintainTeam/LastPipeBender/releases/latest)
