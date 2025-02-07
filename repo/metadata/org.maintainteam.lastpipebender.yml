@@ -7,14 +7,14 @@ Categories:
 License: GPL-3.0-or-later
 AuthorName: MaintainTeam
 AuthorEmail: mt_lastpipebender@asandikci.com
-SourceCode: https://github.com/MaintainTeam/LastPipeBender/tree/extended
+SourceCode: https://github.com/MaintainTeam/LastPipeBender
 IssueTracker: https://github.com/MaintainTeam/LastPipeBender/issues
 Changelog: https://github.com/MaintainTeam/LastPipeBender/releases
 
-AutoName: LastPipeBender Extended
+AutoName: LastPipeBender
 
 RepoType: git
 Repo: https://github.com/MaintainTeam/LastPipeBender.git
 
-Summary: Tubular + Latest NewPipe + Extended Features
-Description: Tubular + Latest NewPipe + Extended Features
+Summary: Tubular + Latest NewPipe
+Description: Tubular + Latest NewPipe

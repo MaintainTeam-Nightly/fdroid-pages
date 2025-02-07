@@ -61,7 +61,7 @@ repo_url: https://maintainteam.github.io/fdroid-pages/fdroid/repo
 repo_name: MaintainTeam F-Droid Repo
 repo_description: >-
   This is a F-Droid repository used for MaintainTeam applications.
-  Hosted on a static site hosting service like GitHub Pages.
+  Provided using a static site hosting service like GitHub Pages.
 
 # As above, but for the archive repo.
 #
