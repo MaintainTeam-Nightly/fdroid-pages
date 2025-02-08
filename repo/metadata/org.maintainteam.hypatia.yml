@@ -1,6 +1,3 @@
-AntiFeatures:
-  NonFreeNet:
-    en-US: Depends on GitHub for signature Databases
 Categories:
   - Security
 License: AGPL-3.0-or-later
