@@ -30,9 +30,7 @@ jobs:
         run: |
           set -e
           declare -a repo_infos=(
-            "org.maintainteam.lastpipebender;github;MaintainTeam/LastPipeBender"
-            "org.maintainteam.lastpipebender.extended;github;MaintainTeam/LastPipeBender"
-            "org.maintainteam.hypatia;github;MaintainTeam/Hypatia"
+            "org.maintainteam.hypatia.dev;github;MaintainTeam-Nightly/Hypatia-dev"
           )
 
           force_update="${{ inputs.force_update }}"
