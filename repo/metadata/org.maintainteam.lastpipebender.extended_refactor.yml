@@ -1,0 +1,20 @@
+AntiFeatures:
+  NonFreeNet:
+    en-US: Depends on Youtube for videos.
+Categories:
+  - Internet
+  - Multimedia
+License: GPL-3.0-or-later
+AuthorName: MaintainTeam
+AuthorEmail: mt_lastpipebender@asandikci.com
+SourceCode: https://github.com/MaintainTeam/LastPipeBender/tree/extended
+IssueTracker: https://github.com/MaintainTeam/LastPipeBender/issues
+Changelog: https://github.com/MaintainTeam/LastPipeBender/releases
+
+AutoName: LastPipeBender Extended REFACTOR
+
+RepoType: git
+Repo: https://github.com/MaintainTeam/LastPipeBender.git
+
+Summary: Tubular + Latest NewPipe + Extended Features + Refactor Branch
+Description: Tubular + Latest NewPipe + Extended Features + Refactor Branch

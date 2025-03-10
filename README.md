@@ -3,10 +3,10 @@
 Static F-Droid Repo (thanks to @litetex) for storing MaintainTeam Android Applications. Repo updates automatically every midnigth and manually after a new release of our apps
 
 ## Application List
-- [Hypatia](https://github.com/MaintainTeam/Hypatia)  
+- [Hypatia](https://github.com/MaintainTeam-Nightly/Hypatia-dev)  
   - `dev` branch
-<!-- - [LastPipeBender](https://github.com/MaintainTeam/LastPipeBender)
-  - both stable and extended versions -->
+- [LastPipeBender](https://github.com/MaintainTeam-Nightly/LastPipeBender-extended-refactor)
+  - `extended-refactor` branch
 
 
 ## Updating
