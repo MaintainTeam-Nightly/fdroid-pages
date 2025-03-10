@@ -50,7 +50,7 @@
 
 # Canonical URL of the repositoy, needs to end in /repo. Is is used to identity
 # the repo in the client, as well.
-repo_url: https://maintainteam.github.io/fdroid-pages/fdroid/repo
+repo_url: https://maintainteam-nightly.github.io/fdroid-pages/fdroid/repo
 #
 # Base URL for per-package pages on the website of this repo,
 # i.e. https://f-droid.org/packages/<appid>/ This should be accessible
@@ -58,9 +58,9 @@ repo_url: https://maintainteam.github.io/fdroid-pages/fdroid/repo
 # feature.
 # repo_web_base_url: http://localhost/packages/
 
-repo_name: MaintainTeam F-Droid Repo
+repo_name: MaintainTeam Nightly F-Droid Repo
 repo_description: >-
-  This is a F-Droid repository used for MaintainTeam applications.
+  This is a F-Droid repository used for NIGHTLY VERSIONS OF MaintainTeam applications.
   Provided using a static site hosting service like GitHub Pages.
 
 # As above, but for the archive repo.
